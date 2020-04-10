@@ -69,5 +69,5 @@ footer {
     - draw a 2px black border around the sections
 */
 
-#starters,#desserts{border:black 2px solid;
+#starters,#desserts{border: 2px solid black;
 }
